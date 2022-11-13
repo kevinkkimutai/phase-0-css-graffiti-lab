@@ -1,1 +1,31 @@
 /* write your override styles here */
+.tag-1 {
+    display: none;
+}
+#wall #tag-2 {
+    display: none;
+}
+div#wall #tag-3.slick {
+    display: none;
+}
+#tag-2 {
+    display: none;
+}
+div#wall #tag-3.slick {
+    display: none;
+}
+.slick.wicked {
+    display: none;
+}
+div#tag-7 {
+    display: none;
+}
+div#tag-6 {
+    display: none;
+}
+div#tag-5 {
+    display: none;
+}
+div#tag-4 {
+    display: none;
+}
